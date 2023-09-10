@@ -1,5 +1,6 @@
 #!bin/sh
 whoami
+whoami
 date
 hostname
 cat /proc/cpuinfo
